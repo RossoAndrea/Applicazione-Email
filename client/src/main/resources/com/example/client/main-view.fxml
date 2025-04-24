@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.Region?>
+
+<BorderPane xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" style="-fx-padding: 15;"  fx:controller="com.example.client.MainController">
+
+    <left>
+        <VBox spacing="10">
+            <Label text="Messaggi in arrivo" />
+            <ScrollPane>
+                <ListView fx:id="messageList" prefHeight="500.0" prefWidth="439.0" />
+            </ScrollPane>
+        </VBox>
+    </left>
+
+    <top>
+        <VBox spacing="10">
+            <HBox spacing="10">
+                <Button fx:id="newMessageButton" text="Crea Nuovo Messaggio" onAction="#onNewMessageButtonClick"/>
+                <Region HBox.hgrow="ALWAYS"/>
+                <Label fx:id="newMailsLabel" style="-fx-font-weight: bold; -fx-text-fill: #0066cc;"/>
+            </HBox>
+            <HBox alignment="CENTER">
+                <Label fx:id="errorLabel" style="-fx-text-fill: red;"/>
+            </HBox>
+            <Region prefHeight="10"/>
+        </VBox>
+    </top>
+
+    <bottom>
+        <VBox spacing="10" alignment="CENTER">
+            <Region prefHeight="10"/>
+            <Label fx:id="connectionStatus" text="Visualizza stato della connessione con il server" />
+        </VBox>
+    </bottom>
+
+    <center>
+        <Region prefWidth="20"/>
+    </center>
+
+    <right>
+        <VBox spacing="20">
+            <Label text="Mittente:" />
+            <TextField fx:id="senderField" promptText="Mittente" editable="false"/>
+            <Label text="Destinatari:" />
+            <TextField fx:id="recipientsField" promptText="Destinatari" editable="false"/>
+            <Label text="Oggetto:" />
+            <TextField fx:id="subjectField" promptText="Oggetto" editable="false"/>
+            <Label text="Testo del messaggio: " />
+            <TextArea fx:id="messageContent" promptText="Testo del messaggio" wrapText="true" editable="false"/>
+
+            <HBox alignment="CENTER" spacing="10">
+                <Button fx:id="replyButton" text="Reply" onAction="#onReplyButtonClick"/>
+                <Button fx:id="replyAllButton" text="Reply-all" onAction="#onReplyAllButtonClick"/>
+                <Button fx:id="forwardButton" text="Inoltra" onAction="#onForwardButtonClick"/>
+                <Button fx:id="deleteButton" text="Elimina" onAction="#onDeleteButtonClick"/>
+            </HBox>
+        </VBox>
+    </right>
+
+</BorderPane>

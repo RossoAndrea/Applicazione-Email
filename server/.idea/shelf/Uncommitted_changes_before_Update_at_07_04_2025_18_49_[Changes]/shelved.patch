@@ -1,0 +1,155 @@
+Index: ../client/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"MavenProjectsManager\">\r\n    <option name=\"originalFiles\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_23\" default=\"true\" project-jdk-name=\"openjdk-23\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../client/.idea/misc.xml b/../client/.idea/misc.xml
+--- a/../client/.idea/misc.xml	(revision 0c321bdeb7ef452b6c04fd4db8e9a2212747e3e3)
++++ b/../client/.idea/misc.xml	(date 1743683224814)
+@@ -8,7 +8,7 @@
+       </list>
+     </option>
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="24" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"febc7c8b-b4b3-496b-83ba-b6415a83c5c0\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/../client/src/main/java/com/example/client/ClientMainModel.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../client/src/main/java/com/example/client/ClientMainModel.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../client/src/main/java/com/example/client/CreateNewMessageController.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../client/src/main/java/com/example/client/CreateNewMessageController.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../client/src/main/java/com/example/client/MainController.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../client/src/main/java/com/example/client/MainController.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../client/src/main/java/com/example/client/network/ConnectionHandler.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../client/src/main/java/com/example/client/network/ConnectionHandler.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"GitLabMergeRequestFiltersHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPENED&quot;,\r\n    &quot;assignee&quot;: {\r\n      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,\r\n      &quot;username&quot;: &quot;st224500&quot;,\r\n      &quot;fullname&quot;: &quot;Marco Orusa&quot;\r\n    }\r\n  }\r\n}</component>\r\n  <component name=\"GitLabMergeRequestsSettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;first&quot;: &quot;https://gitlab2.educ.di.unito.it/st204140/prog3.git&quot;,\r\n    &quot;second&quot;: &quot;e216250e-039b-4147-9b9f-8a47428b6cff&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2u8QeVBPs7akBwEr1CGlc0AFGnP\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marco/prog3/server/Data/marco@mail.it/Mailbox&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\marko\\prog3\\server\\src\\main\\java\\com\\example\\server\" />\r\n      <recent name=\"C:\\Users\\Marco\\prog3\\server\\src\\main\\resources\\com\\example\\server\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Marco\\prog3\\server\\Data\\marco@mail.it\\Mailbox\" />\r\n      <recent name=\"C:\\Users\\Marco\\prog3\\server\\src\\main\\resources\\com\\example\\server\" />\r\n    </key>\r\n    <key name=\"MoveClassesOrPackagesDialog.RECENTS_KEY\">\r\n      <recent name=\"com.example.server.server\" />\r\n      <recent name=\"com.example.server\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"MainServer\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.server.MainServer\" />\r\n      <module name=\"server\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.example.server.server.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.MainServer\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"febc7c8b-b4b3-496b-83ba-b6415a83c5c0\" name=\"Changes\" comment=\"\" />\r\n      <created>1741627816579</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1741627816579</updated>\r\n      <workItem from=\"1741627817652\" duration=\"162000\" />\r\n      <workItem from=\"1741678285135\" duration=\"7903000\" />\r\n      <workItem from=\"1741678285135\" duration=\"8375000\" />\r\n      <workItem from=\"1741850864958\" duration=\"1333000\" />\r\n      <workItem from=\"1741852333017\" duration=\"3051000\" />\r\n      <workItem from=\"1741855395303\" duration=\"1266000\" />\r\n      <workItem from=\"1741942359923\" duration=\"4752000\" />\r\n      <workItem from=\"1742036709728\" duration=\"934000\" />\r\n      <workItem from=\"1742196096698\" duration=\"12906000\" />\r\n      <workItem from=\"1742370110005\" duration=\"694000\" />\r\n      <workItem from=\"1742396483402\" duration=\"795000\" />\r\n      <workItem from=\"1742459946368\" duration=\"1708000\" />\r\n      <workItem from=\"1742480345835\" duration=\"346000\" />\r\n      <workItem from=\"1742548110915\" duration=\"3144000\" />\r\n      <workItem from=\"1742551295749\" duration=\"983000\" />\r\n      <workItem from=\"1742552301183\" duration=\"10988000\" />\r\n      <workItem from=\"1742577327845\" duration=\"655000\" />\r\n      <workItem from=\"1742578193409\" duration=\"805000\" />\r\n      <workItem from=\"1742587023106\" duration=\"3073000\" />\r\n      <workItem from=\"1742628217350\" duration=\"1915000\" />\r\n      <workItem from=\"1742644716213\" duration=\"4014000\" />\r\n      <workItem from=\"1742651616679\" duration=\"602000\" />\r\n      <workItem from=\"1742654648505\" duration=\"638000\" />\r\n      <workItem from=\"1742805351365\" duration=\"27000\" />\r\n      <workItem from=\"1742805427969\" duration=\"2700000\" />\r\n      <workItem from=\"1742819882887\" duration=\"65000\" />\r\n      <workItem from=\"1742820029407\" duration=\"1208000\" />\r\n      <workItem from=\"1742654648505\" duration=\"637000\" />\r\n      <workItem from=\"1742467347897\" duration=\"5690000\" />\r\n      <workItem from=\"1742567933794\" duration=\"1562000\" />\r\n      <workItem from=\"1742918522374\" duration=\"4174000\" />\r\n      <workItem from=\"1743063866733\" duration=\"7415000\" />\r\n      <workItem from=\"1743165341904\" duration=\"1214000\" />\r\n      <workItem from=\"1743607220147\" duration=\"5534000\" />\r\n      <workItem from=\"1743614262507\" duration=\"1753000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Aggiornamento gitignore\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1742577267139</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1742577267140</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Aggiornamento gitignore\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Aggiornamento gitignore\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/example/server/filesystem/FileSystem.java</url>\r\n          <line>25</line>\r\n          <option name=\"timeStamp\" value=\"8\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0c321bdeb7ef452b6c04fd4db8e9a2212747e3e3)
++++ b/.idea/workspace.xml	(date 1744044527908)
+@@ -5,10 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="febc7c8b-b4b3-496b-83ba-b6415a83c5c0" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/../client/src/main/java/com/example/client/ClientMainModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/main/java/com/example/client/ClientMainModel.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../client/src/main/java/com/example/client/CreateNewMessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/main/java/com/example/client/CreateNewMessageController.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../client/src/main/java/com/example/client/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/main/java/com/example/client/MainController.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../client/src/main/java/com/example/client/network/ConnectionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/main/java/com/example/client/network/ConnectionHandler.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../client/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -40,7 +38,7 @@
+   <component name="GitLabMergeRequestsSettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+     &quot;first&quot;: &quot;https://gitlab2.educ.di.unito.it/st204140/prog3.git&quot;,
+-    &quot;second&quot;: &quot;e216250e-039b-4147-9b9f-8a47428b6cff&quot;
++    &quot;second&quot;: &quot;8abd867b-d7dd-430b-b00c-6ad73d220f1c&quot;
+   }
+ }</component>
+   <component name="ProjectColorInfo">{
+@@ -51,17 +49,20 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marco/prog3/server/Data/marco@mail.it/Mailbox&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Application.MainServer.executor": "Run",
++    "WebServerToolWindowFactoryState": "false",
++    "git-widget-placeholder": "master",
++    "kotlin-language-version-configured": "true",
++    "last_opened_file_path": "C:/Users/39339/Documents/prog3/server",
++    "node.js.detected.package.eslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\marko\prog3\server\src\main\java\com\example\server" />
+@@ -77,6 +78,19 @@
+     </key>
+   </component>
+   <component name="RunManager">
++    <configuration name="MainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.example.server.MainServer" />
++      <module name="server" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="com.example.server.server.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="MainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.example.server.MainServer" />
+       <module name="server" />
+@@ -147,6 +161,8 @@
+       <workItem from="1743165341904" duration="1214000" />
+       <workItem from="1743607220147" duration="5534000" />
+       <workItem from="1743614262507" duration="1753000" />
++      <workItem from="1743683073658" duration="1670000" />
++      <workItem from="1744019080301" duration="914000" />
+     </task>
+     <task id="LOCAL-00001" summary="Aggiornamento gitignore">
+       <option name="closed" value="true" />
+@@ -161,6 +177,17 @@
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Aggiornamento gitignore" />
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"MavenProjectsManager\">\r\n    <option name=\"originalFiles\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_23\" default=\"true\" project-jdk-name=\"openjdk-23\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 0c321bdeb7ef452b6c04fd4db8e9a2212747e3e3)
++++ b/.idea/misc.xml	(date 1743683141633)
+@@ -1,3 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+   <component name="MavenProjectsManager">
+@@ -7,7 +8,7 @@
+       </list>
+     </option>
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file

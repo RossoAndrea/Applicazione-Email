@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="febc7c8b-b4b3-496b-83ba-b6415a83c5c0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../client/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;st224500&quot;,
+      &quot;fullname&quot;: &quot;Marco Orusa&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab2.educ.di.unito.it/st204140/prog3.git&quot;,
+    &quot;second&quot;: &quot;e216250e-039b-4147-9b9f-8a47428b6cff&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2u8QeVBPs7akBwEr1CGlc0AFGnP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marco/prog3/server/Data/marco@mail.it/Mailbox&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marko\prog3\server\src\main\java\com\example\server" />
+      <recent name="C:\Users\Marco\prog3\server\src\main\resources\com\example\server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marco\prog3\server\Data\marco@mail.it\Mailbox" />
+      <recent name="C:\Users\Marco\prog3\server\src\main\resources\com\example\server" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.server.server" />
+      <recent name="com.example.server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.server.MainServer" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.server.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="febc7c8b-b4b3-496b-83ba-b6415a83c5c0" name="Changes" comment="" />
+      <created>1741627816579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741627816579</updated>
+      <workItem from="1741627817652" duration="162000" />
+      <workItem from="1741678285135" duration="7903000" />
+      <workItem from="1741678285135" duration="8375000" />
+      <workItem from="1741850864958" duration="1333000" />
+      <workItem from="1741852333017" duration="3051000" />
+      <workItem from="1741855395303" duration="1266000" />
+      <workItem from="1741942359923" duration="4752000" />
+      <workItem from="1742036709728" duration="934000" />
+      <workItem from="1742196096698" duration="12906000" />
+      <workItem from="1742370110005" duration="694000" />
+      <workItem from="1742396483402" duration="795000" />
+      <workItem from="1742459946368" duration="1708000" />
+      <workItem from="1742480345835" duration="346000" />
+      <workItem from="1742548110915" duration="3144000" />
+      <workItem from="1742551295749" duration="983000" />
+      <workItem from="1742552301183" duration="10988000" />
+      <workItem from="1742577327845" duration="655000" />
+      <workItem from="1742578193409" duration="805000" />
+      <workItem from="1742587023106" duration="3073000" />
+      <workItem from="1742628217350" duration="1915000" />
+      <workItem from="1742644716213" duration="4014000" />
+      <workItem from="1742651616679" duration="602000" />
+      <workItem from="1742654648505" duration="638000" />
+      <workItem from="1742805351365" duration="27000" />
+      <workItem from="1742805427969" duration="2700000" />
+      <workItem from="1742819882887" duration="65000" />
+      <workItem from="1742820029407" duration="1208000" />
+      <workItem from="1742654648505" duration="637000" />
+      <workItem from="1742467347897" duration="5690000" />
+      <workItem from="1742567933794" duration="1562000" />
+      <workItem from="1742918522374" duration="4174000" />
+      <workItem from="1743063866733" duration="7415000" />
+      <workItem from="1743165341904" duration="1214000" />
+      <workItem from="1743607220147" duration="5534000" />
+      <workItem from="1743614262507" duration="2050000" />
+      <workItem from="1744022909189" duration="733000" />
+    </task>
+    <task id="LOCAL-00001" summary="Aggiornamento gitignore">
+      <option name="closed" value="true" />
+      <created>1742577267139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742577267140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aggiornamento gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiornamento gitignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/server/filesystem/FileSystem.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
